@@ -23,6 +23,7 @@ public class Ex03_String {
 		//substring(int offet, int end)
 		//일정 인덱스만큼 글자를 잘라서 반환
 		System.out.println(str.substring(0,5));
+		System.out.println("원본 : " + str);
 		
 		//split()
 		//인자로 전달되는 값을 구분자로 문자열을 분할하여 배열형태로 반환

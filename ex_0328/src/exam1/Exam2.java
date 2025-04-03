@@ -1,5 +1,6 @@
 package exam1;
 
+import java.util.Random;
 import java.util.Scanner;
 
 public class Exam2 {
@@ -70,6 +71,8 @@ public class Exam2 {
 			rev += ori.charAt(i);
 		}
 		
+		
+		//메서드 사용법을 좀 외워놓고 있자
 		
 		
 		
