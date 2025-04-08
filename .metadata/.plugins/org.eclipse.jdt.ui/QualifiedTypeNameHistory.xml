@@ -1,15 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="ex03_try_catch.InputErrorException"/>
-    <fullyQualifiedTypeName name="java.lang.Object"/>
-    <fullyQualifiedTypeName name="ex04_api.Book"/>
-    <fullyQualifiedTypeName name="java.lang.StringBuilder"/>
-    <fullyQualifiedTypeName name="java.util.Calendar"/>
-    <fullyQualifiedTypeName name="java.time.LocalDateTime"/>
-    <fullyQualifiedTypeName name="java.time.format.DateTimeFormatter"/>
-    <fullyQualifiedTypeName name="ex05_Generic.DataList"/>
-    <fullyQualifiedTypeName name="ex05_Generic.GenEx"/>
-    <fullyQualifiedTypeName name="ex05_Generic.FruitBox"/>
     <fullyQualifiedTypeName name="ex05_Generic.FruitBox2"/>
     <fullyQualifiedTypeName name="ex05_Generic.Gen"/>
     <fullyQualifiedTypeName name="ex05_Generic.Calculator"/>
@@ -17,7 +7,6 @@
     <fullyQualifiedTypeName name="ex06_List.MenuItem"/>
     <fullyQualifiedTypeName name="java.util.TreeSet"/>
     <fullyQualifiedTypeName name="java.util.Iterator"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="java.util.Collections"/>
     <fullyQualifiedTypeName name="java.util.Map.Entry"/>
     <fullyQualifiedTypeName name="java.util.Map"/>
@@ -45,7 +34,6 @@
     <fullyQualifiedTypeName name="java.util.OptionalInt"/>
     <fullyQualifiedTypeName name="java.util.stream.IntStream"/>
     <fullyQualifiedTypeName name="java.util.OptionalDouble"/>
-    <fullyQualifiedTypeName name="java.util.Arrays"/>
     <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="java.util.stream.Collectors"/>
     <fullyQualifiedTypeName name="java.util.Comparator"/>
@@ -59,5 +47,17 @@
     <fullyQualifiedTypeName name="ex01_ThreadMethod.YieldExample"/>
     <fullyQualifiedTypeName name="java.lang.Runnable"/>
     <fullyQualifiedTypeName name="java.util.Set"/>
+    <fullyQualifiedTypeName name="java.lang.Class"/>
     <fullyQualifiedTypeName name="ex02_synchronized.SynchronizedEx"/>
+    <fullyQualifiedTypeName name="java.lang.InterruptedException"/>
+    <fullyQualifiedTypeName name="ex01_Thread.Storage"/>
+    <fullyQualifiedTypeName name="ex01_Thread.AddStackThread"/>
+    <fullyQualifiedTypeName name="ex01_Thread.PopStackThread"/>
+    <fullyQualifiedTypeName name="ex01_Thread.MyDaemonRunnable"/>
+    <fullyQualifiedTypeName name="ex01_Thread.ThreadCount"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="ex01_Thread.QuizThread"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="java.io.File"/>
+    <fullyQualifiedTypeName name="java.io.FileInputStream"/>
 </qualifiedTypeNameHistroy>
